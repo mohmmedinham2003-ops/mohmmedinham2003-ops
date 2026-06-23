@@ -14,13 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Software Engineering undergraduate** based in Wattala, Sri Lanka, actively building toward a career as a software engineer. I'm focused on strengthening my backend systems skills and cloud fundamentals through coursework, self-learning, and hands-on projects.
-
-- 🎓 Studying **HND in Computing and Software Engineering** at ICBT Campus (2023–2025)
-- 📖 Also pursuing a **Diploma in Software Engineering** at ICET
-- 💡 Strong foundation in **Object-Oriented Programming (OOP)** and **Database Design**
-- 🌱 Currently deepening my knowledge of **cloud technologies** and **backend development**
-- 🤝 Eager to collaborate, contribute, and grow in a real-world engineering environment
+Software Engineering undergraduate actively working toward a career as a software engineer. Focused on developing solid coding skills and a strong foundation in backend systems and cloud technologies through coursework, self-learning, and hands-on projects. Motivated to gain real-world experience, continuously improve, and contribute to impactful software solutions in a collaborative environment.
 
 ---
 
