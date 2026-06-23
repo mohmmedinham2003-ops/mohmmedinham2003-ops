@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammed Inham 👋</h1>
+<h1 align="center">Hi there, I'm Inham 👋</h1>
 
 <p align="center">
   <em>Software Engineering Undergraduate | Backend & Cloud Enthusiast</em>
