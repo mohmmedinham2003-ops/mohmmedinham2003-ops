@@ -1,11 +1,10 @@
-<!-- Animated header banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Inham&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Undergraduate%20%7C%20Backend%20%26%20Cloud%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Inham+%F0%9F%91%8B" alt="Hi there, I'm Inham" />
+</h1>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Backend+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;OOP+%26+Database+Design+Lover+%F0%9F%97%84%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Backend+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;OOP+%26+Database+Design+Lover+%F0%9F%97%84%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,6 +19,8 @@
 
 <br/>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -29,7 +30,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/mohmmedinham2003-ops/mohmmedinham2003-ops/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
 
 ---
 
@@ -87,10 +87,6 @@ const inham = {
 
 ---
 
-
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -121,9 +117,4 @@ I'm always open to internship opportunities, collaborations, and connecting with
 
 <div align="center">
   <em>⚡ "Code. Learn. Build. Repeat." ⚡</em>
-</div>
-
-<!-- Animated footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
