@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&height=90&lines=Inham+%F0%9F%91%8B;Software+Engineer+in+the+Making+%F0%9F%9A%80" alt="Header" />
 
 <!-- Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Backend+Systems+%7C+Cloud+Technologies+%7C+OOP+%7C+Database+Design;Turning+ideas+into+real-world+software+solutions+%F0%9F%92%BB;Open+to+Internships+%7C+Collaborations+%7C+Projects" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Backend+Systems+%7C+Cloud+Technologies+%7C+OOP+%7C+Database+Design;Turning+ideas+into+real-world+soSoftware+solutions+%F0%9F%92%BB;Open+to+Internships+%7C+Collaborations+%7C+Projects" alt="Subtitle" />
 
 <br/>
 
