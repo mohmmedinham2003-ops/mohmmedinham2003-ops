@@ -1,31 +1,32 @@
 <div align="center">
 
-<!-- Animated name header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&height=90&lines=Inham+%F0%9F%91%8B;SE+in+the+Making+%F0%9F%9A%80" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:58A6FF,100:A9FEF7&height=200&section=header&text=Hi%20There,%20I'm%20Inham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SE%20in%20the%20Making%20🚀&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Backend+Systems+%7C+Cloud+Technologies+%7C+OOP+%7C+Database+Design;Turning+ideas+into+real-world+Software+solutions+%F0%9F%92%BB;Open+to+Internships+%7C+Collaborations+%7C+Projects" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Backend+Systems+%7C+Cloud+Technologies+%7C+OOP+%7C+Database+Design;Turning+ideas+into+real-world+Software+solutions+%F0%9F%92%BB;Open+to+Internships+%7C+Collaborations+%7C+Projects" alt="Subtitle" />
 
 <br/>
 
 <!-- Badges row -->
 <a href="mailto:mohmmedinham2003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/mim-inham">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>&nbsp;
 <a href="https://github.com/mohmmedinham2003-ops">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>&nbsp;
-<img src="https://img.shields.io/badge/📍_Wattala,_Sri_Lanka-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Wattala,_Sri_Lanka-FF6B6B?style=for-the-badge&labelColor=FF6B6B" />
 
 <br/><br/>
 
 <!-- Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding" style="border-radius:15px" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:58A6FF&height=3&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -37,12 +38,13 @@
   </picture>
 </div>
 
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF6B6B,50:58A6FF,100:A9FEF7&height=8&section=header" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" style="border-radius:15px" />
 
 > 💡 Software Engineering undergraduate actively working toward a career as a software engineer. Focused on developing solid coding skills and a strong foundation in backend systems and cloud technologies through coursework, self-learning, and hands-on projects. Motivated to gain real-world experience, continuously improve, and contribute to impactful software solutions in a collaborative environment.
 
@@ -60,14 +62,14 @@ const inham = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:A9FEF7,50:58A6FF,100:FF6B6B&height=8&section=header" width="100%"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
 <div align="center">
 
 ### ⚡ Languages
-![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -84,49 +86,66 @@ const inham = {
 
 <br/>
 
-<!-- Skill progress bars as image -->
+<!-- Skill icons -->
 <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,mongodb&theme=dark&perline=6" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF6B6B,50:58A6FF,100:A9FEF7&height=8&section=header" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohmmedinham2003-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF6B6B&icon_color=58A6FF&text_color=A9FEF7&bg_color=0D1117&include_all_commits=true&count_private=true" height="175" />
+<a href="https://github.com/mohmmedinham2003-ops">
+<img src="https://github-readme-stats.vercel.app/api?username=mohmmedinham2003-ops&show_icons=true&theme=radical&hide_border=true&rank_icon=github&title_color=FF6B6B&icon_color=58A6FF&text_color=A9FEF7&bg_color=0D1117" height="175" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedinham2003-ops&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=A9FEF7&bg_color=0D1117&langs_count=6" height="175" />
+<a href="https://github.com/mohmmedinham2003-ops">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedinham2003-ops&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=A9FEF7&bg_color=0D1117&langs_count=6" height="175" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedinham2003-ops&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A9FEF7&dates=A9FEF7&background=0D1117" height="175" />
+<a href="https://github.com/mohmmedinham2003-ops">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedinham2003-ops&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A9FEF7&dates=A9FEF7&background=0D1117" height="175" />
+</a>
+
+<br/><br/>
+
+<sub>Cards not loading? They're generated live by a free third-party service that occasionally rate-limits — <a href="https://github.com/mohmmedinham2003-ops">view stats directly on GitHub</a>.</sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:A9FEF7,50:58A6FF,100:FF6B6B&height=8&section=header" width="100%"/>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmedinham2003-ops&theme=tokyo-night&hide_border=true&area=true&color=A9FEF7&line=FF6B6B&point=58A6FF&area_color=FF6B6B" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmedinham2003-ops&theme=react-dark&hide_border=true&area=true&color=A9FEF7&line=FF6B6B&point=58A6FF&area_color=FF6B6B" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF6B6B,50:58A6FF,100:A9FEF7&height=8&section=header" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Location |
-|:---:|:---:|:---:|:---:|
-| [mohmmedinham2003@gmail.com](mailto:mohmmedinham2003@gmail.com) | [mim-inham](https://linkedin.com/in/mim-inham) | [mohmmedinham2003-ops](https://github.com/mohmmedinham2003-ops) | Wattala, Sri Lanka 🇱🇰 |
+<a href="mailto:mohmmedinham2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/mim-inham">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>&nbsp;
+<a href="https://github.com/mohmmedinham2003-ops">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍-Wattala,_Sri_Lanka-58A6FF?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mohmmedinham2003-ops&color=FF6B6B&style=for-the-badge&label=Profile+Views" />
 &nbsp;
@@ -138,4 +157,4 @@ const inham = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9FEF7,50:58A6FF,100:FF6B6B&height=120&section=footer" width="100%"/>
