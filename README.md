@@ -98,16 +98,6 @@ const inham = {
 <div align="center">
 
 <a href="https://github.com/mohmmedinham2003-ops">
-<img src="https://github-readme-stats.vercel.app/api?username=mohmmedinham2003-ops&show_icons=true&theme=radical&hide_border=true&rank_icon=github&title_color=FF6B6B&icon_color=58A6FF&text_color=A9FEF7&bg_color=0D1117" height="175" />
-</a>
-&nbsp;
-<a href="https://github.com/mohmmedinham2003-ops">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedinham2003-ops&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=A9FEF7&bg_color=0D1117&langs_count=6" height="175" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mohmmedinham2003-ops">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedinham2003-ops&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A9FEF7&dates=A9FEF7&background=0D1117" height="175" />
 </a>
 
