@@ -111,10 +111,7 @@ const inham = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedinham2003-ops&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A9FEF7&dates=A9FEF7&background=0D1117" height="175" />
 </a>
 
-<br/><br/>
-
-<sub>Cards not loading? They're generated live by a free third-party service that occasionally rate-limits — <a href="https://github.com/mohmmedinham2003-ops">view stats directly on GitHub</a>.</sub>
-
+<br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:A9FEF7,50:58A6FF,100:FF6B6B&height=8&section=header" width="100%"/>
